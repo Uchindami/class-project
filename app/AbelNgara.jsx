@@ -1,4 +1,4 @@
-import { View } from "react-native-web";
+import { SafeAreaView, View } from "react-native-web";
 
 export default function AbelNgara(){
     return (
