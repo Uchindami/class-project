@@ -1,9 +1,9 @@
 import {view, TextInputBase } from "react-native";
 
 export default function YankhoMihowa() {
-    <view>
+    <View>
         YankhoMihowa
-    </view>
+    </View>
 
 }
 
